@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: lenagieseke/personal-starter-blog
+  name: git-gateway
+  repo: master
 
 media_folder: content/assets
 public_folder: ../assets
